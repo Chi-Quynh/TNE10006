@@ -1,0 +1,14 @@
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.AssemblyInfoInputs.cache
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.AssemblyInfo.cs
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.csproj.CoreCompileInputs.cache
+D:\C#\VLSM\VLSM\bin\Debug\net6.0\VLSM.exe
+D:\C#\VLSM\VLSM\bin\Debug\net6.0\VLSM.deps.json
+D:\C#\VLSM\VLSM\bin\Debug\net6.0\VLSM.runtimeconfig.json
+D:\C#\VLSM\VLSM\bin\Debug\net6.0\VLSM.dll
+D:\C#\VLSM\VLSM\bin\Debug\net6.0\VLSM.pdb
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.dll
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\refint\VLSM.dll
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.pdb
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\VLSM.genruntimeconfig.cache
+D:\C#\VLSM\VLSM\obj\Debug\net6.0\ref\VLSM.dll
